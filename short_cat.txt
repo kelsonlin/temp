@@ -1,0 +1,22 @@
+289222
+image_name  category_label
+img/Sheer_Pleated-Front_Blouse/img_00000001.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000002.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000003.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000004.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000005.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000006.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000007.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000008.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000009.jpg                        3
+img/Sheer_Pleated-Front_Blouse/img_00000010.jpg                        3
+img/Single-Button_Blazer/img_00000001.jpg                              2
+img/Single-Button_Blazer/img_00000002.jpg                              2
+img/Single-Button_Blazer/img_00000003.jpg                              2
+img/Single-Button_Blazer/img_00000004.jpg                              2
+img/Single-Button_Blazer/img_00000005.jpg                              2
+img/Single-Button_Blazer/img_00000006.jpg                              2
+img/Single-Button_Blazer/img_00000007.jpg                              2
+img/Single-Button_Blazer/img_00000008.jpg                              2
+img/Single-Button_Blazer/img_00000009.jpg                              2
+img/Single-Button_Blazer/img_00000010.jpg                              2

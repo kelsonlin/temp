@@ -1,0 +1,22 @@
+289222
+image_name  x_1  y_1  x_2  y_2
+img/Sheer_Pleated-Front_Blouse/img_00000001.jpg                        072 079 232 273
+img/Sheer_Pleated-Front_Blouse/img_00000002.jpg                        067 059 155 161
+img/Sheer_Pleated-Front_Blouse/img_00000003.jpg                        065 065 156 200
+img/Sheer_Pleated-Front_Blouse/img_00000004.jpg                        051 062 167 182
+img/Sheer_Pleated-Front_Blouse/img_00000005.jpg                        046 088 166 262
+img/Sheer_Pleated-Front_Blouse/img_00000006.jpg                        047 067 211 241
+img/Sheer_Pleated-Front_Blouse/img_00000007.jpg                        018 073 200 241
+img/Sheer_Pleated-Front_Blouse/img_00000008.jpg                        075 074 197 246
+img/Sheer_Pleated-Front_Blouse/img_00000009.jpg                        024 056 149 235
+img/Sheer_Pleated-Front_Blouse/img_00000010.jpg                        019 096 192 203
+img/Single-Button_Blazer/img_00000001.jpg                              030 061 266 294
+img/Single-Button_Blazer/img_00000002.jpg                              014 074 212 300
+img/Single-Button_Blazer/img_00000003.jpg                              033 015 212 261
+img/Single-Button_Blazer/img_00000004.jpg                              041 062 213 281
+img/Single-Button_Blazer/img_00000005.jpg                              001 033 133 248
+img/Single-Button_Blazer/img_00000006.jpg                              049 075 185 273
+img/Single-Button_Blazer/img_00000007.jpg                              029 071 195 196
+img/Single-Button_Blazer/img_00000008.jpg                              010 096 185 264
+img/Single-Button_Blazer/img_00000009.jpg                              032 015 289 300
+img/Single-Button_Blazer/img_00000010.jpg                              039 105 220 298
